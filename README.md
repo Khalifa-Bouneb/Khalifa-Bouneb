@@ -40,7 +40,7 @@
 - 🔐 **[C++ Authentication System](https://github.com/Khalifa-Bouneb/Simple-Authentication-System-in-C)**  
   CLI login system using SHA-256 and session logic.
 
-- 🍅 **YOLOv5 Fruit/Vegetable Anomaly Detection** *(Private or coming soon?)*  
+- 🍅 **YOLOv5 Fruit/Vegetable Anomaly Detection** *(Private)*  
   PyTorch + OpenCV pipeline for agriculture AI systems.
 
 ---

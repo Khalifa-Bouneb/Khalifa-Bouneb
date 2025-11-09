@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/mayankchaudhary26/mayankchaudhary26/blob/main/assets/images/line.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/mayankchaudhary26/main/assets/images/line.gif" width="100%" />
 </p>
 
 <h3 align="center">Connect with me</h3>
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/mayankchaudhary26/mayankchaudhary26/blob/main/assets/images/line.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/mayankchaudhary26/main/assets/images/line.gif" width="100%" />
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/mayankchaudhary26/mayankchaudhary26/blob/main/assets/images/line.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/mayankchaudhary26/main/assets/images/line.gif" width="100%" />
 </p>
 
 <h3 align="center">GitHub Stats</h3>
@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/mayankchaudhary26/mayankchaudhary26/blob/main/assets/images/line.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/mayankchaudhary26/main/assets/images/line.gif" width="100%" />
 </p>
 
 <h3 align="center">GitHub Trophies</h3>
@@ -72,16 +72,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/mayankchaudhary26/mayankchaudhary26/blob/main/assets/images/line.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/mayankchaudhary26/main/assets/images/line.gif" width="100%" />
 </p>
 
 <h3 align="center">Contribution Graph</h3>
 <p align="center">
-  <img src="https_github-readme-activity-graph.vercel.app/graph?username=Khalifa-Bouneb&theme=github-dark&hide_border=true&color=ffffff&line=00b0ff&point=00b0ff&area=true&area_color=00b0ff" alt="Khalifa's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khalifa-Bouneb&theme=github-dark&hide_border=true&color=ffffff&line=00b0ff&point=00b0ff&area=true&area_color=00b0ff" alt="Khalifa's Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/mayankchaudhary26/mayankchaudhary26/blob/main/assets/images/line.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/mayankchaudhary26/main/assets/images/line.gif" width="100%" />
 </p>
 
 ### 📜 Certifications
@@ -91,7 +91,7 @@
 - Database Design – DataCamp
 
 <p align="center">
-  <img src="https://github.com/mayankchaudhary26/mayankchaudhary26/blob/main/assets/images/line.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/mayankchaudhary26/main/assets/images/line.gif" width="100%" />
 </p>
 
 ### 🌍 Languages

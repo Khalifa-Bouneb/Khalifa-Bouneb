@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Khalifa+Bouneb;ICT+Engineering+Student+%7C+AI+Enthusiast;Web+Developer+%7C+FROM+TUNISIA+%F0%9F%87%B9%F0%9F%87%B3" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Khalifa+Bouneb;ICT+Engineering+Student+%7C+AI+Enthusiast;Web+Developer+%7C+FROM+TUNISIA+%F0%9F%87%B9%F0%9F%87%B3" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -7,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 12' preserveAspectRatio='none'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%23ffffff'/><stop offset='0.5' stop-color='%2300b0ff'/><stop offset='1' stop-color='%23ffffff'/><animateTransform attributeName='gradientTransform' type='translate' from='-1 0' to='1 0' dur='2.5s' repeatCount='indefinite'/></linearGradient></defs><rect width='1200' height='12' fill='url(%23g)' rx='6'/></svg>" style="width:100%;max-height:12px;display:block;margin:6px 0;" alt="dynamic divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
 <h3 align="center">Connect with me</h3>
@@ -19,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 12' preserveAspectRatio='none'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%23ffffff'/><stop offset='0.5' stop-color='%2300b0ff'/><stop offset='1' stop-color='%23ffffff'/><animateTransform attributeName='gradientTransform' type='translate' from='-1 0' to='1 0' dur='2.5s' repeatCount='indefinite'/></linearGradient></defs><rect width='1200' height='12' fill='url(%23g)' rx='6'/></svg>" style="width:100%;max-height:12px;display:block;margin:6px 0;" alt="dynamic divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -40,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 12' preserveAspectRatio='none'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%23ffffff'/><stop offset='0.5' stop-color='%2300b0ff'/><stop offset='1' stop-color='%23ffffff'/><animateTransform attributeName='gradientTransform' type='translate' from='-1 0' to='1 0' dur='2.5s' repeatCount='indefinite'/></linearGradient></defs><rect width='1200' height='12' fill='url(%23g)' rx='6'/></svg>" style="width:100%;max-height:12px;display:block;margin:6px 0;" alt="dynamic divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
 <h3 align="center">GitHub Stats</h3>
@@ -63,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 12' preserveAspectRatio='none'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%23ffffff'/><stop offset='0.5' stop-color='%2300b0ff'/><stop offset='1' stop-color='%23ffffff'/><animateTransform attributeName='gradientTransform' type='translate' from='-1 0' to='1 0' dur='2.5s' repeatCount='indefinite'/></linearGradient></defs><rect width='1200' height='12' fill='url(%23g)' rx='6'/></svg>" style="width:100%;max-height:12px;display:block;margin:6px 0;" alt="dynamic divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
 <h3 align="center">GitHub Trophies</h3>
@@ -72,7 +74,7 @@
 </p>
 
 <p align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 12' preserveAspectRatio='none'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%23ffffff'/><stop offset='0.5' stop-color='%2300b0ff'/><stop offset='1' stop-color='%23ffffff'/><animateTransform attributeName='gradientTransform' type='translate' from='-1 0' to='1 0' dur='2.5s' repeatCount='indefinite'/></linearGradient></defs><rect width='1200' height='12' fill='url(%23g)' rx='6'/></svg>" style="width:100%;max-height:12px;display:block;margin:6px 0;" alt="dynamic divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
 <h3 align="center">Contribution Graph</h3>
@@ -81,7 +83,7 @@
 </p>
 
 <p align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 12' preserveAspectRatio='none'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%23ffffff'/><stop offset='0.5' stop-color='%2300b0ff'/><stop offset='1' stop-color='%23ffffff'/><animateTransform attributeName='gradientTransform' type='translate' from='-1 0' to='1 0' dur='2.5s' repeatCount='indefinite'/></linearGradient></defs><rect width='1200' height='12' fill='url(%23g)' rx='6'/></svg>" style="width:100%;max-height:12px;display:block;margin:6px 0;" alt="dynamic divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.gif" width="100%" />
 </p>
 
 ### 📜 Certifications
@@ -91,7 +93,7 @@
 - Database Design – DataCamp
 
 <p align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 12' preserveAspectRatio='none'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%23ffffff'/><stop offset='0.5' stop-color='%2300b0ff'/><stop offset='1' stop-color='%23ffffff'/><animateTransform attributeName='gradientTransform' type='translate' from='-1 0' to='1 0' dur='2.5s' repeatCount='indefinite'/></linearGradient></defs><rect width='1200' height='12' fill='url(%23g)' rx='6'/></svg>" style="width:100%;max-height:12px;display:block;margin:6px 0;" alt="dynamic divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
 ### 🌍 Languages

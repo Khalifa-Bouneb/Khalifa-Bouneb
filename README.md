@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Khalifa+Bouneb;ICT+Engineering+Student+%7C+AI+Enthusiast;Web+Developer+%7C+FROM+TUNISIA+%F0%9F%87%B9%F0%9F%87%B3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Khalifa+Bouneb;ICT+Engineering+Student+%7C+AI+Enthusiast;Web+Developer+%7C+FROM+TUNISIA+%F0%9F%87%B9%F0%9F%87%B3" alt="Typing SVG" />
   </a>
 </p>
 
@@ -47,21 +47,12 @@
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <table border="0" cellpadding="0" cellspacing="0" align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Khalifa-Bouneb&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Khalifa's GitHub Stats" width="450"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.vercel.app/?user=Khalifa-Bouneb&theme=github_dark&hide_border=true" alt="Khalifa's GitHub Streak" width="450" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalifa-Bouneb&layout=compact&theme=github_dark&hide_border=true" alt="Khalifa's Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Khalifa-Bouneb&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Khalifa's GitHub Stats" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Khalifa-Bouneb&theme=github-dark&hide_border=true" alt="Khalifa's GitHub Streak" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalifa-Bouneb&layout=compact&theme=github_dark&hide_border=true" alt="Khalifa's Top Languages" />
 </p>
 
 <p align="center">
@@ -92,9 +83,4 @@
 - LLM Concepts & Generative AI – DataCamp  
 - Database Design – DataCamp
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
 
-### 🌍 Languages
-Arabic (Native), English (Advanced), French (Advanced), Italian (Beginner)
